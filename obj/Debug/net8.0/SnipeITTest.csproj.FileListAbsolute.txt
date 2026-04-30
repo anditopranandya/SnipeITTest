@@ -442,3 +442,4 @@ C:\Users\ARamadhan\Documents\SnipeITTest\obj\Debug\net8.0\SnipeITTest.pdb
 C:\Users\ARamadhan\Documents\SnipeITTest\obj\Debug\net8.0\SnipeITTest.genruntimeconfig.cache
 C:\Users\ARamadhan\Documents\SnipeITTest\obj\Debug\net8.0\ref\SnipeITTest.dll
 C:\Users\ARamadhan\Documents\SnipeITTest\bin\Debug\net8.0\LoginData.txt
+C:\Users\ARamadhan\Documents\SnipeITTest\obj\Debug\net8.0\SnipeITTest.sourcelink.json
