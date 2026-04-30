@@ -1,0 +1,6 @@
+[10:53:23] Test started
+[10:53:23] Asset tag generated: TEST-1777510398569
+------------------------------------------------------------
+[10:53:29] Step 1 PASSED: Login successful
+[10:53:29]   URL after login: https://demo.snipeitapp.com/
+------------------------------------------------------------

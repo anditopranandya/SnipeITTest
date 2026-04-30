@@ -1,0 +1,29 @@
+[10:54:28] Test started
+[10:54:28] Asset tag generated: TEST-1777510463757
+------------------------------------------------------------
+[10:54:36] Step 1 PASSED: Login successful
+[10:54:36]   URL after login: https://demo.snipeitapp.com/
+------------------------------------------------------------
+[10:54:41] Step 2 PASSED: Asset created successfully
+[10:54:41]   Asset Tag:     TEST-1777510463757
+[10:54:41]   Model:         MacBook Pro 13"
+[10:54:41]   Status:        Ready to Deploy
+[10:54:41]   Checked Out To: Vita Armstrong (ylubowitz) - #11947
+[10:54:41]   URL after save: https://demo.snipeitapp.com/hardware
+------------------------------------------------------------
+[10:54:47] Step 3 PASSED: Asset found in the assets list
+[10:54:47]   Searched for: TEST-1777510463757
+------------------------------------------------------------
+[10:54:50] Step 4 PASSED: Asset detail page validated
+[10:54:50]   Asset Tag:      TEST-1777510463757
+[10:54:50]   Model:          Macbook Pro 13"
+[10:54:50]   Breadcrumb:     #TEST-1777510463757 - Macbook Pro 13"
+[10:54:50]   Status:         Ready to Deploy Deployed   Vita Armstrong
+[10:54:50]   Checked Out To: Vita Armstrong
+[10:54:50]   Asset URL:      https://demo.snipeitapp.com/hardware/2614
+------------------------------------------------------------
+[10:54:52] Step 5 PASSED: History tab validated
+[10:54:52]   History contains: create action
+[10:54:52]   History contains: checkout action
+------------------------------------------------------------
+[10:54:52] All steps passed.
